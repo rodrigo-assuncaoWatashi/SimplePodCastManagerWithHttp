@@ -1,0 +1,44 @@
+[
+    {
+        "id": "pod001",
+        "nome": "Café com Código",
+        "episodio": "001 - Começando na Programação",
+        "canal": "DevTalksBrasil",
+        "data": "2025-04-01",
+        "duracao": "35:42",
+        "descricao": "Um papo descontraído sobre os primeiros passos na carreira de programação.",
+        "tags": [
+            "programação",
+            "carreira",
+            "dev iniciante"
+        ]
+    },
+    {
+        "id": "pod002",
+        "nome": "MenteHacker",
+        "episodio": "015 - Segurança Digital em 2025",
+        "canal": "H4ckMind",
+        "data": "2025-03-25",
+        "duracao": "48:10",
+        "descricao": "Debatemos os principais desafios da cibersegurança no cenário atual.",
+        "tags": [
+            "segurança",
+            "hacking",
+            "privacidade"
+        ]
+    },
+    {
+        "id": "pod003",
+        "nome": "VidaDev",
+        "episodio": "007 - Freelancers: Liberdade ou Caos?",
+        "canal": "DevFreedom",
+        "data": "2025-03-28",
+        "duracao": "42:05",
+        "descricao": "Discussão sincera sobre as dores e delícias da vida freelancer.",
+        "tags": [
+            "freelancer",
+            "trabalho remoto",
+            "dev life"
+        ]
+    }
+]
